@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title> • Posts by &#34;bar&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Tue, 24 Dec 2013 23:30:09 +0800</pubDate>
+        <lastBuildDate>Tue, 24 Dec 2013 23:30:09 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2013/12/24/categories/</guid>
+            <title>Categories</title>
+            <link>http://example.com/2013/12/24/categories/</link>
+            <pubDate>Tue, 24 Dec 2013 23:30:09 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
